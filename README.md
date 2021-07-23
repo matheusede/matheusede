@@ -32,3 +32,6 @@
 <br />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusede&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusede&layout=compact&theme=material-palenight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusede&repo=github-readme-stats&theme=material-palenight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusede&repo=anuraghazra.github.io&theme=material-palenight" />
