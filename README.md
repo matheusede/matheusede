@@ -1,6 +1,6 @@
 ### Ei, tudo bem? Meu nome é Matheus Marcolino e seja bem-vindo ao meu github! ✌️ 
 
-## Eu sou um aluno de Ciência da Computação e desenvolvedor de softawares!
+## Eu sou um aluno de Ciência da Computação e desenvolvedor de softwares!
 
 - 🎓 Eu estou atualmente cursando o segundo período do curso de Ciência da Computação na PUC-MG.
 - 📑 Meus projetos atuais são uma cálculadora cientifica desenvolvida com python e uma atualização para o meu RPG de turnos, que trará uma interface gráfica para o jogo.
