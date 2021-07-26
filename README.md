@@ -1,5 +1,5 @@
 <details>
-  <summary>:zap: Português</summary>
+  <summary>🌊 Português</summary>
 
 ### Ei, tudo bem? Meu nome é Matheus Marcolino e seja bem-vindo ao meu github! ✌️ 
 
@@ -12,32 +12,32 @@
 </details>
 
 <details>
-  <summary>:zap: English</summary>
+  <summary>🗽 English</summary>
 
-### Ei, tudo bem? Meu nome é Matheus Marcolino e seja bem-vindo ao meu github! ✌️ 
+### Hey, how you´re doing? I´m Matheus Marcolino and welcome to my github! ✌️ 
 
-## Eu sou um aluno de Ciência da Computação e desenvolvedor de softwares!
+## I´m a computer science student and software developer!
 
-- 🎓 Eu estou atualmente cursando o segundo período do curso de Ciência da Computação na PUC-MG.
-- 📑 Meus projetos atuais são uma cálculadora cientifica desenvolvida com python e uma atualização para o meu RPG de turnos, que trará uma interface gráfica para o jogo.
-- 💹 Objetivos do ano: Contribuir em projetos de código aberto.
-- 🎼 Mais um pouco sobre mim: Eu toco guitarra e baixo no meu tempo livre!
+- 🎓 I´m currently on the second period of my Computer Science degree at PUC-Minas.
+- 📑 My currents projects are a scientific calculator and a update to my RPG game, wich will include a graphic interface to the game.
+- 💹 2021 goals: Contribute on open source projects.
+- 🎼 More about me: I love to play guitar and bass!
 </details>
 
 ---
 
-## Me encontre aqui:
+## Me encontre aqui / Find me here:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [linkedin]: https://www.linkedin.com/in/matheus-marcolino-a17741208/
 [instagram]: https://www.instagram.com/mmarcolino_/?hl=en
 
 <br />
 
---
-## Ferramentas e tecnologias.
+---
+## Ferramentas e tecnologias / Tools and technologies.
 
 <img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
