@@ -19,7 +19,7 @@
 ## I´m a computer science student and software developer!
 
 - 🎓 I´m currently on the second period of my Computer Science degree at PUC-Minas.
-- 📑 My currents projects are a scientific calculator and a update to my RPG game, wich will include a graphic interface to the game.
+- 📑 My current projects are a scientific calculator and a update to my RPG game, wich will include a graphic interface to the game.
 - 💹 2021 goals: Contribute on open source projects.
 - 🎼 More about me: I love to play guitar and bass!
 </details>
