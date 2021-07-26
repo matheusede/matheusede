@@ -1,3 +1,6 @@
+<details>
+  <summary>:zap: Português</summary>
+
 ### Ei, tudo bem? Meu nome é Matheus Marcolino e seja bem-vindo ao meu github! ✌️ 
 
 ## Eu sou um aluno de Ciência da Computação e desenvolvedor de softwares!
@@ -6,6 +9,22 @@
 - 📑 Meus projetos atuais são uma cálculadora cientifica desenvolvida com python e uma atualização para o meu RPG de turnos, que trará uma interface gráfica para o jogo.
 - 💹 Objetivos do ano: Contribuir em projetos de código aberto.
 - 🎼 Mais um pouco sobre mim: Eu toco guitarra e baixo no meu tempo livre!
+</details>
+
+<details>
+  <summary>:zap: English</summary>
+
+### Ei, tudo bem? Meu nome é Matheus Marcolino e seja bem-vindo ao meu github! ✌️ 
+
+## Eu sou um aluno de Ciência da Computação e desenvolvedor de softwares!
+
+- 🎓 Eu estou atualmente cursando o segundo período do curso de Ciência da Computação na PUC-MG.
+- 📑 Meus projetos atuais são uma cálculadora cientifica desenvolvida com python e uma atualização para o meu RPG de turnos, que trará uma interface gráfica para o jogo.
+- 💹 Objetivos do ano: Contribuir em projetos de código aberto.
+- 🎼 Mais um pouco sobre mim: Eu toco guitarra e baixo no meu tempo livre!
+</details>
+
+---
 
 ## Me encontre aqui:
 
@@ -17,6 +36,7 @@
 
 <br />
 
+--
 ## Ferramentas e tecnologias.
 
 <img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
@@ -30,21 +50,6 @@
 
 <br />
 <br />
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/codeSTACKr/portfolio-sass/issues/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-2. 🎉 Merged PR [#1](https://github.com/codeSTACKr/portfolio-sass/pull/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-3. 🗣 Commented on [#10](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/10) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-4. 🗣 Commented on [#11](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/11) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-5. ❌ Closed PR [#1](https://github.com/codeSTACKr/spotify-now-playing/pull/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing)
-<!--END_SECTION:activity-->
-
-</details>
 
 ---
 
