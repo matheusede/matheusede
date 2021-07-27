@@ -56,6 +56,4 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusede&layout=compact&theme=material-palenight" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusede&repo=rpgCPP&theme=material-palenight" />
 
-<br />
----
 ![Músicas que estive escutando / What I'm listening to](https://spotify-recently-played-readme.vercel.app/api?user=matheusede&count=1)
