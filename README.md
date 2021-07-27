@@ -57,5 +57,4 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusede&repo=rpgCPP&theme=material-palenight" />
 
 ---
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=matheusede&width=600)
+![Músicas que estive escutando / What I'm listening to](https://spotify-recently-played-readme.vercel.app/api?user=matheusede&count={5})
