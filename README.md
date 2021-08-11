@@ -25,8 +25,8 @@
 </details>
 
 ---
+ ## Me encontre aqui / Find me here:
 <div>
-  ## Me encontre aqui / Find me here:
 
   [<img align="left" alt="codeSTACKr | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
   [<img align="left" alt="codeSTACKr | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -38,7 +38,7 @@
 <br />
 
 ## Ferramentas e tecnologias / Tools and technologies.
-<div>
+<div style="display: inline_block"><br>
   <img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
   <img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
   <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -52,8 +52,8 @@
 <br />
 
 ---
-<div style="display: inline_block"><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusede&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github   stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusede&layout=compact&theme=material-palenight" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusede&repo=rpgCPP&theme=material-palenight" />
+<div>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=matheusede&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github   stats" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusede&layout=compact&theme=material-palenight" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusede&repo=rpgCPP&theme=material-palenight" />
 </div>
