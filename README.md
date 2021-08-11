@@ -56,6 +56,6 @@
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=matheusede&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github   stats" />
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusede&layout=compact&theme=material-palenight" />
   <br />
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusede&repo=rpgCPP&theme=material-palenight" />
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ICEI-PUC-Minas-PPLCC-TI&repo=devLearn&theme=material-palenight" />
+  <img height="150em" width="200em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusede&repo=rpgCPP&theme=material-palenight" />
+  <img height="150em" width="200em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ICEI-PUC-Minas-PPLCC-TI&repo=devLearn&theme=material-palenight" />
 </div>
