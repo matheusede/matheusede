@@ -37,13 +37,26 @@
   [instagram]: https://www.instagram.com/mmarcolino_/?hl=en
 
 </div>
-
 <br />
 
 ## Ferramentas e tecnologias / Tools and technologies.
 <div style="display: inline_block"><br>
-  <img align="left" alt="C" width="40px" src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" />
+  <img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
+  <img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+  <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+  <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+  <img align="left" alt="css3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+  <img align="left" alt="javascript" width="40px"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
+  <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </div>
 <br />
 <br />
 
+---
+<div>
+  <a href="https://github.com/matheusede?tab=repositories" target="_blank"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=matheusede&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github   stats" /></a>
+  <a href="https://github.com/matheusede?tab=repositories" target="_blank"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusede&layout=compact&theme=material-palenight" /></a>
+  <a href="https://github.com/matheusede/rpgCpp" target="_blank"><img height="135em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusede&repo=rpgCPP&theme=material-palenight" /></a>
+  <a href="https://icei-puc-minas-pplcc-ti.github.io/devLearn/src/" target="_blank"><img height="135em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ICEI-PUC-Minas-PPLCC-TI&repo=devLearn&theme=material-palenight" /></a>
+</div>
