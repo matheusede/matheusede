@@ -54,5 +54,5 @@
 <br />
 <br />
 <div>
-  <img align = "center" alt = "jujutsu" width = "100px" src = "https://64.media.tumblr.com/88366aa4bca89b3490be78c42a942c75/94d3dca257888962-e4/s540x810/4a99c2d876f9532dd327c78b907a3508c87f643c.gif" />
+  <img align = "center" alt = "jujutsu" width = "1000px" src = "https://64.media.tumblr.com/88366aa4bca89b3490be78c42a942c75/94d3dca257888962-e4/s540x810/4a99c2d876f9532dd327c78b907a3508c87f643c.gif" />
 </div>
