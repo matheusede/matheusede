@@ -25,3 +25,15 @@
   - 🎼 More about me: I love to play guitar and bass!
   </details>
 </div>
+
+---
+ ## Me encontre aqui / Find me here:
+<div>
+
+  [<img align="left" alt="codeSTACKr | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+  [<img align="left" alt="codeSTACKr | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+  [linkedin]: https://www.linkedin.com/in/matheus-marcolino-a17741208/
+  [instagram]: https://www.instagram.com/mmarcolino_/?hl=en
+
+</div>
