@@ -30,8 +30,8 @@
  ## Me encontre aqui / Find me here:
 <div>
 
-  [<img align="left" alt="codeSTACKr | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-  [<img align="left" alt="codeSTACKr | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+  [<img align="left" alt="codeSTACKr | LinkedIn" width="40px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+  [<img align="left" alt="codeSTACKr | Instagram" width="40px" src="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />][instagram]
 
   [linkedin]: https://www.linkedin.com/in/matheus-marcolino-a17741208/
   [instagram]: https://www.instagram.com/mmarcolino_/?hl=en
