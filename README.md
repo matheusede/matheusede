@@ -29,7 +29,6 @@
 ---
  ## Me encontre aqui / Find me here:
 <div>
-<br />
   [<img align="left" alt="codeSTACKr | LinkedIn" width="40px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
   [<img align="left" alt="codeSTACKr | Instagram" width="40px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />][instagram]
 
