@@ -39,6 +39,7 @@
 <br />
 </div>
 <br />
+
 ## Ferramentas e tecnologias / Tools and technologies.
 <div style="display: inline_block"><br>
   <img align="left" alt="C" width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
