@@ -10,6 +10,10 @@
   - 📑 Meus projetos atuais são uma cálculadora cientifica desenvolvida com python e uma atualização para o meu RPG de turnos, que trará uma interface gráfica para o jogo.
   - 💹 Objetivos do ano: Contribuir em projetos de código aberto.
   - 🎼 Mais um pouco sobre mim: Eu toco guitarra e baixo no meu tempo livre!
+  
+   <p align="center">
+   <img align="center" alt="Ed" width="400px" src="https://64.media.tumblr.com/51d98865d8113e0e00943bf52b85fce5/tumblr_pwtjfx2HE51vpvdbgo1_500.gifv" />
+   </p>
   </details>
 
   <details>
@@ -23,6 +27,11 @@
   - 📑 My current projects are a scientific calculator and a update to my RPG game, which will include a graphic interface to the game.
   - 💹 2021 goals: Contribute on open source projects.
   - 🎼 More about me: I love to play guitar and bass!
+   
+   ## See you, space cowboy...
+   <p align="center">
+   <img align="center" alt="Ed" width="400px" src="https://64.media.tumblr.com/51d98865d8113e0e00943bf52b85fce5/tumblr_pwtjfx2HE51vpvdbgo1_500.gifv" />
+   </p>
   </details>
 </div>
 
@@ -50,7 +59,6 @@
   <img align="left" alt="javascript" width="40px"   src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" />
   <img align="left" alt="MySQL" width="50px" src="https://altyra.com/wp-content/uploads/2018/11/mysql-logo-png-transparent.png"/>
   <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
- <img align="right" alt="Ed" width="200px" src="https://64.media.tumblr.com/51d98865d8113e0e00943bf52b85fce5/tumblr_pwtjfx2HE51vpvdbgo1_500.gifv" />
 </div>
 <br />
 <br />
