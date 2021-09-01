@@ -38,7 +38,6 @@
   [instagram]: https://www.instagram.com/mmarcolino_/?hl=en
 <br />
 </div>
-<br />
 
 ## Ferramentas e tecnologias / Tools and technologies.
 <div style="display: inline_block"><br>
