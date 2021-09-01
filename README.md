@@ -61,5 +61,5 @@
   <a href="https://github.com/matheusede?tab=repositories" target="_blank"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusede&layout=compact&theme=dracula" /></a>
 </div>
 ---
-##Meu Spotify / My Spotify
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=matheusede&count=1)
+## See you, space cowboy...
+<img align="left" alt="Ed" width="500px" src="https://64.media.tumblr.com/51d98865d8113e0e00943bf52b85fce5/tumblr_pwtjfx2HE51vpvdbgo1_500.gifv" />
