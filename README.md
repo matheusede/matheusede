@@ -62,9 +62,10 @@
 </div>
 
 <br />
-<br />
 
 ---
 
 ## See you, space cowboy...
-<img align="left" alt="Ed" width="500px" src="https://64.media.tumblr.com/51d98865d8113e0e00943bf52b85fce5/tumblr_pwtjfx2HE51vpvdbgo1_500.gifv" />
+<div>
+<img align="center" alt="Ed" width="500px" src="https://64.media.tumblr.com/51d98865d8113e0e00943bf52b85fce5/tumblr_pwtjfx2HE51vpvdbgo1_500.gifv" />
+</div>
