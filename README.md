@@ -67,5 +67,5 @@
 
 ## See you, space cowboy...
 <p align="center">
-<img align="center" alt="Ed" width="300px" src="https://64.media.tumblr.com/51d98865d8113e0e00943bf52b85fce5/tumblr_pwtjfx2HE51vpvdbgo1_500.gifv" />
+<img align="center" alt="Ed" width="400px" src="https://64.media.tumblr.com/51d98865d8113e0e00943bf52b85fce5/tumblr_pwtjfx2HE51vpvdbgo1_500.gifv" />
 </p>
