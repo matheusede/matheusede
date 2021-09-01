@@ -10,7 +10,8 @@
   - 📑 Meus projetos atuais são uma cálculadora cientifica desenvolvida com python e uma atualização para o meu RPG de turnos, que trará uma interface gráfica para o jogo.
   - 💹 Objetivos do ano: Contribuir em projetos de código aberto.
   - 🎼 Mais um pouco sobre mim: Eu toco guitarra e baixo no meu tempo livre!
-
+   </details>
+ 
   <details>
     <summary>🗽 English</summary>
 
