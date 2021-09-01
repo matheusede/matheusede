@@ -50,6 +50,7 @@
   <img align="left" alt="javascript" width="40px"   src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" />
   <img align="left" alt="MySQL" width="50px" src="https://altyra.com/wp-content/uploads/2018/11/mysql-logo-png-transparent.png"/>
   <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+ <img align="right" alt="Ed" width="200px" src="https://64.media.tumblr.com/51d98865d8113e0e00943bf52b85fce5/tumblr_pwtjfx2HE51vpvdbgo1_500.gifv" />
 </div>
 <br />
 <br />
@@ -64,8 +65,3 @@
 <br />
 
 ---
-
-## See you, space cowboy...
-<p align="center">
-<img align="center" alt="Ed" width="400px" src="https://64.media.tumblr.com/51d98865d8113e0e00943bf52b85fce5/tumblr_pwtjfx2HE51vpvdbgo1_500.gifv" />
-</p>
