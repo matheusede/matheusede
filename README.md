@@ -10,9 +10,6 @@
   - 📑 Meus projetos atuais são uma cálculadora cientifica desenvolvida com python e uma atualização para o meu RPG de turnos, que trará uma interface gráfica para o jogo.
   - 💹 Objetivos do ano: Contribuir em projetos de código aberto.
   - 🎼 Mais um pouco sobre mim: Eu toco guitarra e baixo no meu tempo livre!
-  
-<img align="right" alt="Ed" width="400px" src="https://64.media.tumblr.com/51d98865d8113e0e00943bf52b85fce5/tumblr_pwtjfx2HE51vpvdbgo1_500.gifv" />
-  </details>
 
   <details>
     <summary>🗽 English</summary>
@@ -26,10 +23,6 @@
   - 💹 2021 goals: Contribute on open source projects.
   - 🎼 More about me: I love to play guitar and bass!
    
-   ## See you, space cowboy...
-   <p align="center">
-   <img align="center" alt="Ed" width="400px" src="https://64.media.tumblr.com/51d98865d8113e0e00943bf52b85fce5/tumblr_pwtjfx2HE51vpvdbgo1_500.gifv" />
-   </p>
   </details>
 </div>
 
@@ -71,3 +64,7 @@
 <br />
 
 ---
+   ## See you, space cowboy...
+   <p align="center">
+   <img align="center" alt="Ed" width="400px" src="https://64.media.tumblr.com/51d98865d8113e0e00943bf52b85fce5/tumblr_pwtjfx2HE51vpvdbgo1_500.gifv" />
+   </p>
