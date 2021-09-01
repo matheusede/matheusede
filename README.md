@@ -60,3 +60,6 @@
   <a href="https://github.com/matheusede?tab=repositories" target="_blank"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=matheusede&show_icons=true&include_all_commits=true&theme=dracula" alt="Anurag's github   stats" /></a>
   <a href="https://github.com/matheusede?tab=repositories" target="_blank"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusede&layout=compact&theme=dracula" /></a>
 </div>
+---
+##Meu Spotify / My Spotify
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=matheusede&count=1)
