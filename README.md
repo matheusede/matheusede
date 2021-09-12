@@ -44,6 +44,7 @@
 <div style="display: inline_block"><br>
   <img align="left" alt="C" width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
   <img align="left" alt="C++" width="6%" src="https://sdtimes.com/wp-content/uploads/2018/03/cpppp.png" />
+ <img align="left" alt="C#" width="6%" src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg" />
   <img align="left" alt="Java" width="6%" src="https://images.vexels.com/media/users/3/166401/isolated/lists/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon.png" />
   <img align="left" alt="Python" width="6%" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
   <img align="left" alt="HTML5" width="6%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
