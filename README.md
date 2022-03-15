@@ -32,7 +32,7 @@
 <div>
 
   [<img align="left" alt="codeSTACKr | LinkedIn" width="5%" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
-  [<img align="left" alt="codeSTACKr | Instagram" width="5%" src="https://image.flaticon.com/icons/png/512/174/174855.png" />][instagram]
+  [<img align="left" alt="codeSTACKr | Instagram" width="5%" src="https://www.flaticon.com/br/icone-gratis/logotipo-do-linkedin_61109?term=linkedin&page=1&position=1&page=1&position=1&related_id=61109&origin=search" />][instagram]
 
   [linkedin]: https://www.linkedin.com/in/matheus-marcolino-a17741208/
   [instagram]: https://www.instagram.com/mmarcolino_/?hl=en
