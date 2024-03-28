@@ -6,7 +6,7 @@
 
   ## Eu sou um aluno de Ciência da Computação e desenvolvedor de softwares!
 
-  - 🎓 Eu estou atualmente cursando o quinto período do curso de Ciência da Computação na PUC-MG.
+  - 🎓 Eu estou atualmente cursando o sexto período do curso de Ciência da Computação na PUC-MG.
   - 🎼 Mais um pouco sobre mim: Eu toco guitarra e baixo no meu tempo livre!
    </details>
  
@@ -17,7 +17,7 @@
 
   ## I´m a computer science student and software developer!
 
-  - 🎓 I'm currently on the second period of my Computer Science degree at PUC-Minas.
+  - 🎓 I'm currently on the sisth period of my Computer Science degree at PUC-Minas.
   - 🎼 More about me: I love to play guitar and bass!
    
   </details>
