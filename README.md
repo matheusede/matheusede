@@ -1,27 +1,4 @@
-<div>
- <details>
-  <summary>🌊 Português</summary>
 
-  ### Ei, tudo bem? Meu nome é Matheus Marcolino e seja bem-vindo ao meu github! ✌️ 
-
-  ## Eu sou um aluno de Ciência da Computação e desenvolvedor de softwares!
-
-  - 🎓 Eu estou atualmente cursando o sexto período do curso de Ciência da Computação na PUC-MG.
-  - 🎼 Mais um pouco sobre mim: Eu toco guitarra e baixo no meu tempo livre!
-   </details>
- 
-  <details>
-    <summary>🗽 English</summary>
-
-  ### Hey, how you're doing? I'm Matheus Marcolino and welcome to my github! ✌️ 
-
-  ## I´m a computer science student and software developer!
-
-  - 🎓 I'm currently on the sisth period of my Computer Science degree at PUC-Minas.
-  - 🎼 More about me: I love to play guitar and bass!
-   
-  </details>
-</div>
 
 ---
  ## Me encontre aqui / Find me here:
